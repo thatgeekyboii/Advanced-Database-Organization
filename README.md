@@ -1,5 +1,5 @@
 # Advanced-Database-Organization
-<h1>Assignment 1: Storage Manager.</h1>
+<h1>Storage Manager.</h1>
 
 <hr>
 
